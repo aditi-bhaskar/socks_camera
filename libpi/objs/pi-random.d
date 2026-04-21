@@ -1,0 +1,24 @@
+objs/pi-random.o: libc/pi-random.c \
+ /Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/rpi.h \
+ /Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/libc/demand.h \
+ /Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/gpio.h \
+ /Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/rpi-constants.h \
+ /Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/your-prototypes.h \
+ /Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/libc/rpi-rand.h \
+ libc/random.h libc/pi-random.h
+
+/Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/rpi.h:
+
+/Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/libc/demand.h:
+
+/Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/gpio.h:
+
+/Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/rpi-constants.h:
+
+/Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/include/your-prototypes.h:
+
+/Users/aditi/Documents/spr2026-cs240lx-finalproj/libpi/libc/rpi-rand.h:
+
+libc/random.h:
+
+libc/pi-random.h:

@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+*.elf
+*.o
+*.d
+*.bin
+*.list
+*.img
+
+# Nested build dirs
+objs/
+
+# Camera output images
+*.jpg
+*.png
+*.txt
+
+
+*.DS_Store
+
+!camera-240lx/laptop_code/captured
+!camera-240lx/laptop_code/captured/*
+!camera-240lx/sd_tools
+!camera-240lx/sd_tools/*
